@@ -1,0 +1,37 @@
+_repo: The-Quest-of-the-Historical-Jesus_45422
+_version: 0.1.0
+alternative_title: Von Reimarus zu Wrede. English
+contributor:
+  translator:
+    agent_name: Montgomery, W. (William)
+    alias: Montgomery, William
+    birthdate: 1871
+    deathdate: 1930
+    gutenberg_agent_id: '42695'
+    url: http://www.gutenberg.org/2009/agents/42695
+covers:
+- cover_type: archival
+  image_path: 45422-tei/images/cover.jpg
+creator:
+  author:
+    agent_name: Schweitzer, Albert
+    birthdate: 1875
+    deathdate: 1965
+    gutenberg_agent_id: '42712'
+    url: http://www.gutenberg.org/2009/agents/42712
+description: ''
+gutenberg_issued: '2014-04-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45422'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BT'
+- !lcsh 'Jesus Christ -- Historicity'
+- !lcsh 'Jesus Christ -- Biography -- History and criticism'
+title: "The Quest of the Historical Jesus\r\nA Critical Study of its Progress from\
+  \ Reimarus to Wrede"
+url: http://www.gutenberg.org/ebooks/45422
